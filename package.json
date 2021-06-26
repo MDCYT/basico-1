@@ -1,0 +1,14 @@
+{
+  "name": "basico",
+  "version": "0.0.1",
+  "description": "Proyecto basico de node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "MDC",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
